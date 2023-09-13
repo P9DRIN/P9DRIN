@@ -22,7 +22,12 @@ Skill/Technologies
   <div style="display: inline-block">
   <a href="https://www.mongodb.com">
   <img style="height:32px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /></a>
+  <a href="https://www.mysql.com">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" /></a>
+          
   </div>
+
+  
   <div style="display: inline-block">
    <a href="https://www.figma.com">
   <img style="height: 32px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /></a>
