@@ -6,7 +6,8 @@ Skill/Technologies
 <div style="display: flex; flex-direction: column">
 <div style="display: inline-block">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> <img style="height:32px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> </a>
-  
+  <a href="https://www.typescriptlang.org"> <img style="height:32px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> </a>
+    
    <a href="https://pt-br.react.dev/blog/2023/03/16/introducing-react-dev">
   <img style="height:32px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a>
 
