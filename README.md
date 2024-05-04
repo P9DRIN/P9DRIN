@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-#### Me chamo Pedro Henrique Lima Silva, tenho 21 anos. Atualmente estou cursando Tecnologia da Informação (Bacharelado) pela UNIVESP e sou Desenvolvedor Web Jr. 
+#### Me chamo Pedro Henrique Lima Silva, tenho 21 anos. Atualmente estou cursando Tecnologia da Informação (Bacharelado) pela UNIVESP e sou Desenvolvedor Web. 
 ##### Adoro estudar. Utilizo da tecnologia para facilitar/resolver problemas e alcançar novas/melhores soluções no dia a dia. Opero com React, Nodejs e TailwindCSS para trazer vivacidade para aplicações. Focado em aprender assuntos novos, e trazer bons resultados! 
 
 Skill/Technologies
