@@ -3,7 +3,7 @@
 
 #### Me chamo Pedro Henrique Lima Silva, tenho 21 anos e sou Desenvolvedor Web Full-Stack. 
 #### 📚 Atualmente estou cursando Tecnologia da Informação (Bacharelado) pela UNIVESP.
-<div style="32px"><a href="https://limasilva.tech">Este é o meu <b>portfolio.</b></a></div>
+<div style="font-size: 32px; text-decoration: none;"><a href="https://limasilva.tech">💻 Este é o meu <b>portfolio.</b></a></div>
 ##### Adoro estudar. Utilizo da tecnologia para facilitar/resolver problemas e alcançar novas/melhores soluções no dia a dia. Opero com React, Nodejs e TailwindCSS para trazer vivacidade para aplicações. Focado em aprender assuntos novos, e trazer bons resultados! 
 
 Skill/Technologies
