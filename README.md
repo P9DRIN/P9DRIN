@@ -5,12 +5,12 @@
 
 #### 📚 Atualmente estou cursando Tecnologia da Informação (Bacharelado) pela UNIVESP.
 
-##### Adoro estudar. Utilizo da tecnologia para facilitar/resolver problemas e alcançar novas/melhores soluções no dia a dia. 
-##### Opero principalmente com React, Nodejs e TailwindCSS para trazer vivacidade para aplicações. 
-##### Estou totalmente focado em aprender assuntos novos, e trazer bons resultados! 
+<h2>Adoro estudar. Utilizo da tecnologia para facilitar/resolver problemas e alcançar novas/melhores soluções no dia a dia.</h2></br>
+<h2>Opero principalmente com React, Nodejs e TailwindCSS para trazer vivacidade para aplicações.</h2></br>
+<h2>Estou totalmente focado em aprender assuntos novos, e trazer bons resultados!</h2></br>
 
 <div style="font-size: 32px; text-decoration: none;"><a href="https://limasilva.tech">💻 Este é o meu <b>portfolio.</b></a></div>
-
+</br>
 Skill/Technologies
 <div style="display: flex; flex-direction: column">
 <div style="display: inline-block">
