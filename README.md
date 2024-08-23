@@ -7,7 +7,7 @@
 
 <div style="display: flex; flex-direction: column; gap: 2px">
 <h4>🧠 Adoro estudar. Utilizo da tecnologia para facilitar/resolver problemas e alcançar novas/melhores soluções no dia a dia.</h4>
-<h4>💹 Opero principalmente com React, Nodejs e TailwindCSS para trazer vivacidade para aplicações.</h4>
+<h4>💹 Opero principalmente com Javascript para trazer vivacidade para minhas aplicações.</h4>
 <h4>🎯 Estou totalmente focado em aprender assuntos novos, e trazer bons resultados!</h4>
 <a href="https://limasilva.tech" style="font-size: 32px; text-decoration: none;">💻 Este é o meu <b>portfolio.</b></a>
 </div>
