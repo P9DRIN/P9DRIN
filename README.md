@@ -1,14 +1,13 @@
-## Hi there 👋
+## Hi there! What's up? 👋
 
+#### I'm Pedro Henrique Lima Silva. I'm a full-stack developer. Welcome!
 
-#### Me chamo Pedro Henrique Lima Silva, tenho 21 anos e sou Desenvolvedor Web Full-Stack. 
-
-#### 📚 Atualmente estou cursando Tecnologia da Informação (Bacharelado) pela UNIVESP.
+## 📚  I do have a Bachelor's degree in Information Technology from UNIVESP.
 
 <div style="display: flex; flex-direction: column; gap: 2px">
-<h4>🧠 Adoro estudar. Utilizo da tecnologia para facilitar/resolver problemas e alcançar novas/melhores soluções no dia a dia.</h4>
-<h4>🎯 Estou totalmente focado em aprender assuntos novos, e trazer bons resultados!</h4>
-<a href="https://limasilva.tech" style="font-size: 32px; text-decoration: none;">💻 Este é o meu <b>portfolio.</b></a>
+<h4>🧠 I use technology to make life easier. Solve hard problems. Reach new horizons. </h4>
+<h4>🎯 Now, I am totally focused on learn more, applying what I've learnt and seeking perfect results! </h4>
+<a href="https://limasilva.tech" style="font-size: 32px; text-decoration: none;">💻 This is my <b>portfolio.</b> Feel free to get in touch if you have any suggestions. :)</a>
 </div>
 
 </br>
