@@ -1,8 +1,8 @@
 ## Hi there! What's up? 👋
 
-#### I'm Pedro Henrique Lima Silva. I'm a full-stack developer. Welcome!
+### I'm Pedro Henrique Lima Silva. I'm a full-stack developer. Welcome!
 
-## 📚  I do have a Bachelor's degree in Information Technology from UNIVESP.
+#### 📚  I do have a Bachelor's degree in Information Technology from UNIVESP.
 
 <div style="display: flex; flex-direction: column; gap: 2px">
 <h4>🧠 I use technology to make life easier. Solve hard problems. Reach new horizons. </h4>
